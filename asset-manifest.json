@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/kopistasi/static/css/main.ea1455b2.chunk.css",
+    "main.js": "/kopistasi/static/js/main.d10a2999.chunk.js",
+    "main.js.map": "/kopistasi/static/js/main.d10a2999.chunk.js.map",
+    "runtime-main.js": "/kopistasi/static/js/runtime-main.1f83e0ed.js",
+    "runtime-main.js.map": "/kopistasi/static/js/runtime-main.1f83e0ed.js.map",
+    "static/js/2.ec4cf9a6.chunk.js": "/kopistasi/static/js/2.ec4cf9a6.chunk.js",
+    "static/js/2.ec4cf9a6.chunk.js.map": "/kopistasi/static/js/2.ec4cf9a6.chunk.js.map",
+    "index.html": "/kopistasi/index.html",
+    "static/css/main.ea1455b2.chunk.css.map": "/kopistasi/static/css/main.ea1455b2.chunk.css.map",
+    "static/js/2.ec4cf9a6.chunk.js.LICENSE.txt": "/kopistasi/static/js/2.ec4cf9a6.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/kopistasi/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f83e0ed.js",
+    "static/js/2.ec4cf9a6.chunk.js",
+    "static/css/main.ea1455b2.chunk.css",
+    "static/js/main.d10a2999.chunk.js"
+  ]
+}
